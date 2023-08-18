@@ -3,3 +3,42 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: black;
+    padding: 15px;
+}
+header .flex{
+   display: flex;
+   justify-content: space-evenly;
+}
+header a{
+  color: aliceblue;
+  text-decoration: none;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
